@@ -1,0 +1,10 @@
+M:\ITB4\suchyd.05\PRG\forms3\forms3\bin\Debug\forms3.exe.config
+M:\ITB4\suchyd.05\PRG\forms3\forms3\bin\Debug\forms3.exe
+M:\ITB4\suchyd.05\PRG\forms3\forms3\bin\Debug\forms3.pdb
+M:\ITB4\suchyd.05\PRG\forms3\forms3\obj\Debug\forms3.csprojAssemblyReference.cache
+M:\ITB4\suchyd.05\PRG\forms3\forms3\obj\Debug\forms3.Form1.resources
+M:\ITB4\suchyd.05\PRG\forms3\forms3\obj\Debug\forms3.Properties.Resources.resources
+M:\ITB4\suchyd.05\PRG\forms3\forms3\obj\Debug\forms3.csproj.GenerateResource.cache
+M:\ITB4\suchyd.05\PRG\forms3\forms3\obj\Debug\forms3.csproj.CoreCompileInputs.cache
+M:\ITB4\suchyd.05\PRG\forms3\forms3\obj\Debug\forms3.exe
+M:\ITB4\suchyd.05\PRG\forms3\forms3\obj\Debug\forms3.pdb
